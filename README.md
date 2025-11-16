@@ -32,3 +32,4 @@ Nilai Tugas : 90
 Nilai UTS : 80
 Nilai UAS : 90
 Tambah data (y/t)? t
+![alt image]()
