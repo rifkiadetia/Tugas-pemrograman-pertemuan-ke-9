@@ -1,5 +1,5 @@
 # Tugas-pemrograman-pertemuan-ke-9
-# Program Input Data Mahasiswa (List Python)
+#Program Input Data Mahasiswa (List Python)
 
 Program ini digunakan untuk menambahkan data mahasiswa menggunakan struktur list pada Python.  
 Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
