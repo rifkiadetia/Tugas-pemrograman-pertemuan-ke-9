@@ -23,7 +23,7 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 7. Jika "t", tampilkan tabel data
 8. Selesai
 
-!{alt image}(https://github.com/rifkiadetia/Tugas-pemrograman-pertemuan-ke-9/blob/cd91ce02113ff3df6df1e71225a856ee3e127951/screenshot%20tugas/flowchart%20praktikum.png)
+!{alt image}(https://github.com/rifkiadetia/Tugas-pemrograman-pertemuan-ke-9/blob/fab5662732924d92c514806391aed20c2589b60c/screenshot%20tugas/flowchart%20praktikum.png)
 
 #Contoh Output
 Nama : Rifki Ade Tia
