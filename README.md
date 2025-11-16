@@ -4,7 +4,7 @@
 Program ini digunakan untuk menambahkan data mahasiswa menggunakan struktur list pada Python.  
 Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 
-## Fitur Program
+# Fitur Program
 - Input nama, NIM, nilai tugas, UTS, dan UAS.
 - Perhitungan nilai akhir menggunakan rumus:
   - Tugas: 30%
@@ -13,7 +13,7 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 - Program akan menanyakan apakah ingin menambah data (y/t).
 - Jika memilih "t", program menampilkan seluruh data mahasiswa dalam bentuk tabel.
 
-## Flowchart Program
+# Flowchart Program
 1. Mulai
 2. Input data mahasiswa
 3. Hitung nilai akhir
@@ -22,6 +22,7 @@ Pengguna dapat memasukkan data sebanyak-banyaknya menggunakan perulangan.
 6. Jika "y", kembali ke input
 7. Jika "t", tampilkan tabel data
 8. Selesai
+!{alt image}(https://github.com/rifkiadetia/Tugas-pemrograman-pertemuan-ke-9/blob/cd91ce02113ff3df6df1e71225a856ee3e127951/screenshot%20tugas/flowchart%20praktikum.png)
 
 # Contoh Output
 Nama : Rifki Ade Tia
