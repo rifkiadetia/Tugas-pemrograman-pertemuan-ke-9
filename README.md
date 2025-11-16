@@ -32,4 +32,4 @@ Nilai Tugas : 90
 Nilai UTS : 80
 Nilai UAS : 90
 Tambah data (y/t)? t
-![alt image]()
+![alt image](https://github.com/rifkiadetia/Tugas-pemrograman-pertemuan-ke-9/blob/c2c39455d605d976817d280ab596721f075310b6/screenshot%20tugas/ss%20run%20praktikum.png)
